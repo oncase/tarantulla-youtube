@@ -9,7 +9,7 @@
 
 ## **"Tarantulla-YouTube: the solution to gather YouTube data from publishers of your interest"**
 
-If you want to know more, check out Tarantulla's [landing page](http://tarantulla.io/) and our [post]() in Medium.
+If you want to know more, check out Tarantulla's [landing page](http://tarantulla.io/) and our [post](https://medium.com/oncase/tarantulla-youtube-a-new-way-to-extract-data-from-youtube-f9290eba7ace) in Medium.
 
 On this document you will find information about:  
 
