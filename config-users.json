@@ -1,0 +1,12 @@
+{
+    "temp_output": "/../data/",
+    "python-command":"python3", 
+    "publishers":
+    [
+        {
+            "_youtube_user": "AndroidPITcom",
+            "name": "AndroidPIT US",
+            "isChannel": false
+        }
+    ]   
+}
