@@ -11,7 +11,7 @@ Before you submit your pull request consider the following guidelines:
 
 * Create your patch, **including appropriate test cases**.
 * Follow our [Coding Rules](#rules).
-* Run the full `Tarantulla-twitter` test suite (aliased by `make test`), and ensure
+* Run the full `Tarantulla-youtube` test suite (aliased by `make test`), and ensure
   that all tests pass.
 * Commit your changes using a descriptive commit message.
 
@@ -33,11 +33,11 @@ Before you submit your pull request consider the following guidelines:
     git push origin my-fix-branch
     ```
 
-In GitHub, send a pull request to `Tarantulla-twitter:master`.
+In GitHub, send a pull request to `Tarantulla-youtube:master`.
 If we suggest changes, then:
 
 * Make the required updates.
-* Re-run the `Tarantulla-twitter` test suite to ensure tests are still passing.
+* Re-run the `Tarantulla-youtube` test suite to ensure tests are still passing.
 * Commit your changes to your branch (e.g. `my-fix-branch`).
 * Push the changes to your GitHub repository (this will update your Pull Request).
 

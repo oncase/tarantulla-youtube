@@ -1,6 +1,6 @@
-# # Contributing to `Tarantulla-Twitter`
+# # Contributing to `Tarantulla-youtube`
 
-We'd love for you to contribute to our source code and to make `Tarantulla-twitter Module`
+We'd love for you to contribute to our source code and to make `Tarantulla-youtube Module`
 even better than it is today! Here are the guidelines we'd like you to follow:
 
 - [Code of Conduct](#coc)
@@ -12,13 +12,13 @@ even better than it is today! Here are the guidelines we'd like you to follow:
 - [Coding Rules](#rules)
 
 ## <a name="coc"></a> Code of Conduct
-The `Tarantulla-twitter` is a module of Tarantulla, it was built to be a open and inclusive solution. So help us keep it this way. Please be kind to and respectful with other developers, as we all have the same goal: To make collecting, extracting and data-driven decisiton easier with `Tarantulla-twitter`. 
+The `Tarantulla-youtube` is a module of Tarantulla, it was built to be a open and inclusive solution. So help us keep it this way. Please be kind to and respectful with other developers, as we all have the same goal: To make collecting, extracting and data-driven decisiton easier with `Tarantulla-youtube`. 
 Our Code of Conduct complete [here][code-link]
 
 
 ## <a name="question"></a> Got an Module/Product Question or Problem?
 
-If you have questions about how to use `Tarantulla-twitter`, please see our
+If you have questions about how to use `Tarantulla-youtube`, please see our
 [Readme][readme-link], and if you don't find the answer there, please contact
 [hello@tarantulla.io](mailto:hello@tarantulla.io) with any issues you have.
 
@@ -34,7 +34,7 @@ You can request a new feature by submitting an issue to our
 [GitHub Repository][github]. If you would like to implement a new feature then consider what kind of change it is:
 
 * **Major Changes** that you wish to contribute to the project should be
-  discussed first with `Tarantulla-twitter` contributors in an issue or pull request so that we can develop a proper solution and better coordinate our efforts, prevent duplication of work, and help you to craft the change so that it is
+  discussed first with `Tarantulla-youtube` contributors in an issue or pull request so that we can develop a proper solution and better coordinate our efforts, prevent duplication of work, and help you to craft the change so that it is
   successfully accepted into the project.
 * **Small Changes** can be crafted and submitted to the [GitHub Repository][github] as a Pull Request and just get it touch to our team and all contributors in an [new issue][issue-link].
 
@@ -74,7 +74,7 @@ Before you submit your pull request consider the following guidelines:
 
 * Create your patch, **including appropriate test cases**.
 * Follow our [Coding Rules](#rules).
-* Run the full `Tarantulla-twitter` test suite (aliased by `make test`), and ensure
+* Run the full `Tarantulla-youtube` test suite (aliased by `make test`), and ensure
   that all tests pass.
 * Commit your changes using a descriptive commit message.
 
@@ -96,11 +96,11 @@ Before you submit your pull request consider the following guidelines:
     git push origin my-fix-branch
     ```
 
-In GitHub, send a pull request to `Tarantulla-twitter:master`.
+In GitHub, send a pull request to `Tarantulla-youtube:master`.
 If we suggest changes, then:
 
 * Make the required updates.
-* Re-run the `Tarantulla-twitter` test suite to ensure tests are still passing.
+* Re-run the `Tarantulla-youtube` test suite to ensure tests are still passing.
 * Commit your changes to your branch (e.g. `my-fix-branch`).
 * Push the changes to your GitHub repository (this will update your Pull Request).
 
@@ -119,8 +119,8 @@ To ensure consistency throughout the source code, keep these rules in mind as yo
 
 Check the Tarantulla [landing page][page-link].
 
-[readme-link]: https://github.com/oncase/tarantulla-twitter/blob/master/README.md
-[issue-link]: https://github.com/oncase/tarantulla-twitter/issues/new
-[github]: https://github.com/oncase/tarantulla-twitter/
-[code-link]: https://github.com/idantas/tarantulla-twitter/blob/master/CODE_OF_CONDUCT.md
+[readme-link]: https://github.com/oncase/tarantulla-youtube/blob/master/README.md
+[issue-link]: https://github.com/oncase/tarantulla-youtube/issues/new
+[github]: https://github.com/oncase/tarantulla-youtube/
+[code-link]: https://github.com/oncase/tarantulla-youtube/blob/master/CODE_OF_CONDUCT.md
 [page-link]: https://tarantulla.io/
